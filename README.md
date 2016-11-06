@@ -1,5 +1,3 @@
-# RL-basics
+# Reinforcement-Learning
 
-This repository will introduce code examples and descriptions of basic Reinforcement Learning (RL) components.
-
-This code examples in this repository will be written in R.
+This repository will introduce code examples and descriptions of Reinforcement Learning (RL) components and game solutions.
